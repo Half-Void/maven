@@ -1,1 +1,1 @@
-FROM gcr.io/heptio-images/scanner-forwarder:v0.0.4
+FROM k8s.gcr.io/kube-apiserver:v1.14.3
